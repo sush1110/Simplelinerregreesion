@@ -1,1 +1,1 @@
-# Simplelinerregreesion
+# SimpleLinearRegression
